@@ -1,0 +1,11 @@
+﻿O base url esta convigurado assim como a primeira atividade para "http://localhost/at02/WesleyVieiraDaSilva/";
+Essa aplicação usa banco de dados para quardar a data que os usuario entrão para que eles possam ter controle;
+
+
+O instagram só permite que usuarios comuns acessem a api depois que ele avaliar a api então só é permitido entrar com o usuario de teste da api;
+O usuario de teste para a API é a mesma registrada como desenvolvedor no instagram, ele tem uma conta no insta e contem fotos para poder testar a exibição de fotos;
+
+Dados do usuario{ usuario: teste_lp2     senha: teste-lp2 };
+
+
+O link de ospedagem online é "http://hospedagem.ifspguarulhos.edu.br/~gu1661132/" ;
